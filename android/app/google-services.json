@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540021967363",
+    "project_id": "unified-service-rider",
+    "storage_bucket": "unified-service-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540021967363:android:991a49f7f6447c04921c36",
+        "android_client_info": {
+          "package_name": "com.tradingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540021967363-j4mq0sq0r54eu8acdvc18d833mivtjku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradingapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "540021967363-fmosmv7p2jlb3hvumllpe3avrji5i12g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeQBZc303s1GxYRjcR9tZFxviW-xml1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540021967363-fmosmv7p2jlb3hvumllpe3avrji5i12g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
